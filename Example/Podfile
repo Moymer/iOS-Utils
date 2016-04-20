@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'iOS-Utils_Example', :exclusive => true do
+  pod 'iOS-Utils', :path => '../'
+end
+
+target 'iOS-Utils_Tests', :exclusive => true do
+  pod 'iOS-Utils', :path => '../'
+
+  
+end
