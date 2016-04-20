@@ -22,7 +22,7 @@ pod "iOS-Utils"
 
 ## Author
 
-gustavotiago-moymer, gustavo.tiago@moymer.com
+Moymer, help@moymer.com
 
 ## License
 
