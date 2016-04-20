@@ -17,7 +17,7 @@ iOS-Utils is available through [CocoaPods](http://cocoapods.org). To install
 it, simply add the following line to your Podfile:
 
 ```ruby
-pod "iOS-Utils"
+pod "iOS-Utils", :git=> "https://github.com/Moymer/iOS-Utils.git"
 ```
 
 ## Author
