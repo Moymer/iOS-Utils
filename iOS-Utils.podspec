@@ -23,7 +23,7 @@ s.description      =  "This pod should be used as a tool for the development of 
 s.homepage         = "http://www.moymer.com:8080/#en"
 # s.screenshots     = "www.example.com/screenshots_1", "www.example.com/screenshots_2"
 s.license          = 'MIT'
-s.author           = { "Moymer" => "gustavo.tiago@moymer.com" }
+s.author           = { "Moymer" => "help@moymer.com" }
 s.source           = { :git => "https://github.com/Moymer/iOS-Utils.git", :tag => s.version.to_s }
 # s.social_media_url = 'https://twitter.com/moymerapp'
 
