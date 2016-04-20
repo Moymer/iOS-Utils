@@ -1,0 +1,24 @@
+{
+  "name": "iOS-Utils",
+  "version": "0.1.0",
+  "summary": "A short description of iOS-Utils.",
+  "description": "",
+  "homepage": "https://github.com/<GITHUB_USERNAME>/iOS-Utils",
+  "license": "MIT",
+  "authors": {
+    "gustavotiago-moymer": "gustavo.tiago@moymer.com"
+  },
+  "source": {
+    "git": "https://github.com/<GITHUB_USERNAME>/iOS-Utils.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "iOS-Utils/Classes/**/*",
+  "resource_bundles": {
+    "iOS-Utils": [
+      "iOS-Utils/Assets/*.png"
+    ]
+  }
+}
