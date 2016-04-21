@@ -18,6 +18,8 @@ it, simply add the following line to your Podfile:
 
 ```ruby
 pod "iOS-Utils", :git=> "https://github.com/Moymer/iOS-Utils.git"
+
+pod "iOS-Utils", :commit => "b162fee33b0d8a5bbae8cdb08f549e30f91741c2", :git=> "https://github.com/Moymer/iOS-Utils.git"
 ```
 
 ## Author
